@@ -43,6 +43,6 @@ Systems thinker who executes fast. Treats Claude like a senior collaborator, not
 
 ## 🎬 Cinematic Portrait
 
-![AI Personality Portrait](portrait.png)
+![AI Personality Portrait](cinematic_ai_portrait.png)
 
 ---
